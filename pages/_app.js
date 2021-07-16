@@ -11,6 +11,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     font-family: sans-serif;
     background-color: #FA8072;
+    background-image: url('http://multiversitystatic.s3.amazonaws.com/uploads/2020/11/Feature-Katara-and-the-Pirates-Silver-1232x700.jpg');
   }
   
   #__next {
